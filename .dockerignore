@@ -26,5 +26,10 @@
 # Ignorar AssemblyInfoInput
 **/AssemblyInfoInput
 **/AssemblyInfoInput.cache
+# Ignorar arquivos de montagem e cache
+src/Adapters/ECommerce.Adapters/obj/
+src/API/ECommerce.API/obj/
+src/Core/ECommerce.Core/obj/
+
 LICENSE
 README.md
